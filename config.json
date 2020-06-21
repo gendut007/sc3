@@ -5,7 +5,7 @@
      "Password": "xxx",
      "Authenticator": "xxx"
      },
- "Target Profit": "1000.00000000",
+ "Target Profit": "10.00000000",
  "Target Win": "13050.000000",
  "Lose Target": "0.0",
  "Interval": "1",
@@ -13,12 +13,12 @@
 
      "Name Bet Set": "  5 - 10 %",
      "Base Bet": "0.01",
-     "Max Bet": "OFF",
-     "Chance": "69",
+     "Max Bet": "100",
+     "Chance": "80",
      "Random Chance": {
-          "Toggle": "OFF",
-          "Min": "28",
-          "Max": "29"
+          "Toggle": "ON",
+          "Min": "80",
+          "Max": "81"
         },
      "Bet": {
           "Bet": "Hi",
@@ -29,11 +29,11 @@
               "If Win": "1"
             }
         },
-     "If Win": "2",
-     "If Lose": "3",
-     "Reset If Win": "1",
-     "Reset If Profit": "OFF",
-     "Interval": "2"
+     "If Win": "0.89",
+     "If Lose": "2.2",
+     "Reset If Win": "0",
+     "Reset If Profit": "0.00000001",
+     "Interval": "200"
      
 }],
 
